@@ -1,9 +1,9 @@
 {
-    "name": "panique/php-sass",
+    "name": "maxmillion/php-sass",
     "type": "library",
     "description": "Compiles your SASS .scss files to .css every time your run your app (in development)",
     "keywords": ["sass", "scss", "css"],
-    "homepage": "https://github.com/panique/php-sass",
+    "homepage": "https://github.com/maxmillion/php-sass",
     "license": "MIT",
     "authors": [
         {
@@ -21,6 +21,6 @@
     },
     "require": {
         "php": ">=5.3.0",
-        "leafo/scssphp": "v0.1.1"
+        "leafo/scssphp": "v0.6.6"
     }
 }
